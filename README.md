@@ -14,7 +14,8 @@ I'm Web, a gradated Robotics and AI Engineering student at KMITL and currently a
 
 #### My experiences
 * Application Developer [@Exxonmobil](https://corporate.exxonmobil.com/locations/thailand) - Maintenance record mobility app improvement and optimization
-* Machine Learning Engineer [@KBTG](https://www.kbtg.tech/contact) - Conversation Analytics and Double-Talk detection
+* Machine Learning Engineer [@KBTG](https://www.kbtg.tech/contact) - Conversation Analysis and Double-Talk detection
+* Machine Learning Researcher [@KDAI KMITL](https://kdaicenter.science.kmitl.ac.th/about) - MRI Analysis and Alzheimer's disease prediction
 * Research&Development Engineer [@KMITL AIMS Lab](https://www.krai.io/) - Mobile Robot Platform
 
 <!--
