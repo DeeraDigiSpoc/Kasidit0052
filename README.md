@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Web, a gradated Robotics and AI Engineering student at KMITL and currently a Msc Artificial Intelligence student in The university of Edinburgh.
+I'm Web, a graduated Robotics and AI Engineering student at KMITL and currently a Msc Artificial Intelligence student in The university of Edinburgh.
 - 👯 I’m looking to collaborate on large scale data science project in various organization
 - 📫 How to reach me: [@Linkedin](https://www.linkedin.com/in/kasiditt/)
 
